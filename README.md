@@ -30,7 +30,7 @@ Abaixo, a demonstração da consulta de um CEP e o retorno dos dados tratados.
 
 ### Histórico de Consultas no MySQL
 Os dados são armazenados localmente, reduzindo o tempo de resposta em consultas repetidas.
-![MySQL Cache](./screenshots/mysql.png)
+![MySQL Cache](./screenshots/Mysql.png)
 ## 🚀 Como Rodar o Projeto
 
 1. **Clonar o repositório:**
