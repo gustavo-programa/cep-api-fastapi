@@ -25,7 +25,7 @@ Este projeto demonstra a integração de uma API desenvolvida em **FastAPI** com
 
 ### Consumo de API Externa com Sucesso
 Abaixo, a demonstração da consulta de um CEP e o retorno dos dados tratados.
-![CEP Success](./screenshots/Swagget.png)
+![CEP Success](./screenshots/Swagger.png)
 ![CEP Success](./screenshots/Get.png)
 
 ### Histórico de Consultas no MySQL
